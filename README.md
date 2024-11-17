@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Kaan!
-🌟 **AI Enthusiast | Software Developer**
+
+![New Project](https://github.com/user-attachments/assets/4eba0200-345a-4c48-a2c2-17dcc5e6496e)
 
 ---
 
 ## 🚀 About Me
 - 🌱 Currently learning **Enterprise Software Developement**, **Deep Learning**.
 - 🤖 Passionate about: **Automation**, **Deep Learning**, **Computer Vision**
-
----
 
 ## 🛠️ Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
