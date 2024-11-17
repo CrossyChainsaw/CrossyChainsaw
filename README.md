@@ -8,6 +8,8 @@
 - 🌱 Currently learning **Enterprise Software Developement**, **Deep Learning**.
 - 🤖 Passionate about: **Automation**, **Deep Learning**, **Computer Vision**
 
+---
+
 ## 🛠️ Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -29,5 +31,3 @@
 
 ## 📈 Top Repositories:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=crossychainsaw&repo=ranknir&theme=radical)](https://github.com/crossychainsaw/ranknir)
-
----
