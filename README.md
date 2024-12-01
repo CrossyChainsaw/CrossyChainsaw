@@ -32,10 +32,8 @@
 </div>
 
 ---
-
-## 📈 Top Repositories:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=crossychainsaw&repo=ranknir&theme=radical)](https://github.com/crossychainsaw/ranknir)
----
-
 ## 📌 Don't Miss Out!
-- Make sure to check my pinned repositories for the best projects!  
+- Make sure to check my pinned repositories for the best projects!
+
+
+
