@@ -35,11 +35,3 @@
 ## 📌 Don't Miss Out!
 - Make sure to check my pinned repositories for the best projects!
 
-
-## 📈 Top Repositories:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=crossychainsaw&repo=ranknir&theme=radical)](https://github.com/crossychainsaw/ranknir)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=crossychainsaw&repo=brawl-template-matcher&theme=radical)](https://github.com/crossychainsaw/brawl-template-matcher)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=crossychainsaw&repo=wasd-rl-agent&theme=radical)](https://github.com/crossychainsaw/wasd-rl-agent)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=crossychainsaw&repo=brawlhalla-legend-classification&theme=radical)](https://github.com/crossychainsaw/brawlhalla-legend-classification)
-
-
