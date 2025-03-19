@@ -27,9 +27,7 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=crossychainsaw&show_icons=true&theme=radical&hide=prs" alt="GitHub stats" />    
-  
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crossychainsaw&theme=radical&layout=compact" alt="Language Stats" />  
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=crossychainsaw&show_icons=true&theme=radical&hide=prs" alt="GitHub stats" />      
 </div>
 
 ---
