@@ -5,9 +5,9 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning **Enterprise Software Developement**, **Deep Learning**.
-- 🤖 Passionate about: **Automation**, **Deep Learning**, **Computer Vision**
-
+- 🌱 Currently learning **Machine Learning**, **Video Editing**.
+- 🤖 Passionate about: **Automation**, **Deep Learning**, **Computer Vision**, **Graphical Design**
+- 🎨 Design Portfolio: [Click Here!](https://github.com/CrossyChainsaw/Design-Portfolio)
 ---
 
 ## 🛠️ Languages and Tools:
