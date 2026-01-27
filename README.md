@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning **Machine Learning**, **Video Editing**.
+- 🌱 Currently working on: **Machine Learning**, **Video Editing**.
 - 🤖 Passionate about: **Automation**, **Deep Learning**, **Computer Vision**, **Graphical Design**
 - 🎨 Design Portfolio: [Click Here!](https://github.com/CrossyChainsaw/Design-Portfolio)
 ---
